@@ -1,1 +1,1 @@
-# DevoteeDatabase-frontend-gurudeva
+# DevoteeDatabaseFrontend
